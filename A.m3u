@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Mahar Bhawdi
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTINF:-1,MRTV - 4
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1,Channel - 7
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:-1,Fortune TV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:-1,Mahar HD
+http://tv.mahar.live/mahar/website.stream/mahar/website3/chunks.m3u8
+#EXTINF:-1,Mahar Esport
+https://tv.mahar.live/esports/mahar.stream/playlist.m3u8
+#EXTINF:-1,5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
+#EXTINF:-1,MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1578284018.m3u8
+#EXTINF:-1,Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1,MITV
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8
+#EXTINF:-1,CNN
+https://restream.thutakhit.app:5443/live/streams/qYnVi2S5dCQbi8CX80027328583808.m3u8
+#EXTINF:-1,BBC-News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+#EXTINF:-1,NHK World
+https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+#EXTINF:-1,Al-jazeera-English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,Love Nature
+https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8
+#EXTINF:-1,Investigation Discovery
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
