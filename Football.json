@@ -1,1 +1,124 @@
-{"liveFootballData":[{"id":"01","data":{"url":[],"id":"01","title":"Al Hilal    Vs  Persepolis","img":"https://sta.vnres.co/file/common/20250202/b01ff6bcd99fac93d943c50170fe77a4.png","img1":"https://sta.vnres.co/file/common/20250202/fe52b3512f3ead75f1fd44599080f80d.png","league":"AFC Champion League Elite","time":"5.2.2025(12:30AM)","live":"0","link":"https://socolive66.cc/truc-tiep/kocaelispor-vs-sivasspor-04-02-2025-1700/"}},{"id":"02","data":{"url":[],"id":"02","title":"VfB Stuttgart   Vs  FC Augsburg","img":"https://img.thesports.com/football/team/bfdd500484330d63a723cbc396df762c.png","img1":"https://img.thesports.com/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png","league":"DFB Pokal","time":"5.2.2025(2:15AM)","live":"0","link":"https://socolive66.cc/truc-tiep/kocaelispor-vs-sivasspor-04-02-2025-1700/"}},{"id":"03","data":{"url":[],"id":"03","title":"Atalanta   Vs  Bologna ","img":"https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png","img1":"https://img.thesports.com/football/team/8fc994cdd8961179f168fb3f2fe61deb.png","league":"Coppa Italia","time":"5.2.2025(2:30AM)","live":"0","link":"https://socolive66.cc/truc-tiep/kocaelispor-vs-sivasspor-04-02-2025-1700/"}},{"id":"04","data":{"url":[],"id":"04","title":"Atletico Madrid   Vs  Getafe","img":"https://img.thesports.com/football/team/15f730f481d1ae7c75c1d28ee2862adc.png","img1":"https://img.thesports.com/football/team/36bf5bf0c8fdf08c1270124808f060e1.png","league":"Copa Del Rey","time":"5.2.2025(3:00AM)","live":"0","link":"https://socolive66.cc/truc-tiep/kocaelispor-vs-sivasspor-04-02-2025-1700/"}}]}
+{
+    "Special": [
+        {
+            "Link": "https://cdn.otvplayer.com/bn_alkass_hd1.m3u8",
+            "Name": "Bein Alkass 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_alkass_hd2.m3u8",
+            "Name": "Bein Alkass 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_alkass_hd3.m3u8",
+            "Name": "Bein Alkass 3",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_alkass_hd4.m3u8",
+            "Name": "Bein Alkass 4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd1.m3u8",
+            "Name": "Bein Sport 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd2.m3u8",
+            "Name": "Bein Sport 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd3.m3u8",
+            "Name": "Bein Sport 3",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd4.m3u8",
+            "Name": "Bein Sport 4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd5.m3u8",
+            "Name": "Bein Sport 5",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd6.m3u8",
+            "Name": "Bein Sport 6",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd7.m3u8",
+            "Name": "Bein Sport 7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd8.m3u8",
+            "Name": "Bein Sport 8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_hd9.m3u8",
+            "Name": "Bein Sport 9",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_xtra_hd1.m3u8",
+            "Name": "Bein Xtra 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_xtra_hd2.m3u8",
+            "Name": "Bein Xtra 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_xtra_hd3.m3u8",
+            "Name": "Bein Xtra 3",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_english_hd1.m3u8",
+            "Name": "Bein English 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_english_hd2.m3u8",
+            "Name": "Bein English 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_french_hd1.m3u8",
+            "Name": "Bein French 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_cdn_french_hd2.m3u8",
+            "Name": "Bein French 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_movies_hd1.m3u8",
+            "Name": "Bein Movies 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_movies_hd2.m3u8",
+            "Name": "Bein Movies 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_movies_hd3.m3u8",
+            "Name": "Bein Movies 3",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        },
+        {
+            "Link": "https://cdn.otvplayer.com/bn_movies_hd4.m3u8",
+            "Name": "Bein Movies 4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtYrORmRE6BYQiQPM9oQ62YR8Dy06GKmrUg&s"
+        }
+    ]
+}
